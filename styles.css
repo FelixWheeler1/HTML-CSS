@@ -20,3 +20,21 @@ h1 {
     font-size: 100px;
     font-style: normal;
 }
+.special {
+    font-family: 'Gill sans','Gill Sans MT', 
+    Calibri,'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: Center;   
+} 
+
+    .special2 {
+        font-family: 'Gill sans','Gill Sans MT', 
+        Calibri,'Trebuchet MS', sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+        text-align: left;  
+        color:green;
+
+
+}
