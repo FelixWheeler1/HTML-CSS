@@ -21,7 +21,7 @@
 
  .section-two {
     padding: 6px 2px 2px 8px;
-    background-color: red ;
+    background-color: blue ;
 }  
 
 
@@ -35,10 +35,13 @@
     width: 40%;   
     padding: 10px; 
  } 
-
- 
+ .container{
+  display: flex; 
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+ }
   .dark {
-    color: #333333;
+    color: #e9e9f1;
 }  
 
  
